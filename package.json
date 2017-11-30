@@ -21,6 +21,7 @@
     "test": "test"
   },
   "dependencies": {
+    "async": "^2.6.0",
     "moment": "^2.18.1"
   },
   "scripts": {
